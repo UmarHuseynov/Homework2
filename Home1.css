@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.Background{
+    width: 100%;
+    height: 100vh;
+background-image: url("aesthetic-city-wallpaper-1600x900-wallpaper.jpg");
+display: flex;
+
+}
+.FirstText::first-letter{
+    color: orange;
+    font-size: 50px;
+}
+.FirstText{
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+    position: fixed;
+}
+.Aboutus{
+    color: white;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+}
+.Home{
+    color: white;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+.Portfolio{
+    color: white;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+.Blog{
+    color: white;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+.Contactus{
+    color: white;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.CenterText{
+color: white;
+text-align: center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+margin-top: 500px;
+display: flex;
+justify-content: center;
+}
+
+
